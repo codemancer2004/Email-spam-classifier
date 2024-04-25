@@ -1,6 +1,2 @@
 streamlit
-pickle
-string
-stopwords
 nltk
-PorterStemmer
